@@ -1,0 +1,9 @@
+numpy
+gym
+torch
+stable-baselines3
+transformers
+sentencepiece
+opengl
+glfw
+matplotlib
