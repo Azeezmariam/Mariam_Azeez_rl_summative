@@ -44,4 +44,4 @@ class TourismEnv(gym.Env):
         frame = np.array(pygame.surfarray.array3d(self.screen))
         frame = np.transpose(frame, (1, 0, 2))  # Convert to (height, width, 3)
         
-        return frame  # This frame will be recorded
+        return frame  
