@@ -159,7 +159,7 @@ Key improvements made:
 ### **Static File **  
 - A simple diagram or image representing the **agent’s state space** and **translation choices**.  
 - Helps visualize how RL is used to **optimize language translation accuracy**.  
-![rl](https://github.com/user-attachments/assets/c651b3bb-85b9-4dc7-a173-5ea8b7591a27)
+![Agent Simulation Screenshot](rl.jpeg)
 
 
 ---
