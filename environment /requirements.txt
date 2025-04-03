@@ -1,4 +1,0 @@
-gym
-numpy
-PyOpenGL
-stable-baselines3
